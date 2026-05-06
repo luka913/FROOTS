@@ -1,0 +1,55 @@
+body {
+   font-family: "Boldonse", system-ui;
+    margin: 0;
+    padding: 0;
+    background-color: #f88a0c; 
+    color: #e5f31a; 
+    text-align: center;
+}
+
+
+.zaglavlje {
+    
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.brend {
+    float: left; 
+}
+
+.korpa {
+    float: right; 
+}
+
+
+.centralni-deo {
+    margin-top: 50px; 
+}
+
+.mala-poruka {
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px; 
+    margin: 0;
+}
+
+.glavni-naslov {
+    font-size: 80px;
+    font-weight: 900;
+    margin: 5px 0;
+}
+
+
+.orange-slika {
+    width: 60%; 
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
